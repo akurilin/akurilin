@@ -5,7 +5,7 @@
 - 📷 **[Koom](https://github.com/akurilin/koom)** - A self-hosted open source alternative to Loom
 - 🔮 **[Kiro](https://github.com/akurilin/kiro)** - A Discord voice bot that answers game questions so players never have to alt-tab
 - 🍃 **[Kale](https://github.com/akurilin/kale)** - An agentic desktop word processor for technical essay writers
-- 💬 **[Convojoiner](https://github.com/akurilin/convojoiner)** - Cross-provider concurrent agent transcript publisher
+- 💬 **[Multitrack](https://github.com/akurilin/multitrack)** - Cross-provider concurrent agent transcript publisher
 - 🖥️ **[CUI](https://github.com/akurilin/cui)** - A minimalist UI system built with C and SDL3
 - 🦀 **[RUI](https://github.com/akurilin/rui)** - A minimalist UI system built with Rust and SDL3
 - 📬 **[Queues](https://github.com/akurilin/queues)** - Exploration of queue fundamentals with AWS SQS
