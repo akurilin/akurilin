@@ -2,6 +2,7 @@
 
 ## Recent Public Projects
 
+- 🔁 **[Followuper](https://github.com/akurilin/followuper)** - Finds conversations you forgot to follow up on
 - 📡 **[Spotter](https://github.com/akurilin/spotter)** - Notifies you when a WhatsApp group starts a relevant topic
 - 🐋 **[Wale](https://github.com/akurilin/wale)** - Kale on the Web
 - 📷 **[Koom](https://github.com/akurilin/koom)** - A self-hosted open source alternative to Loom
