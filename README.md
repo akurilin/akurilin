@@ -5,7 +5,7 @@
 - 🔁 **[Followuper](https://github.com/akurilin/followuper)** - Finds conversations you forgot to follow up on
 - 📡 **[Spotter](https://github.com/akurilin/spotter)** - Notifies you when a WhatsApp group starts a relevant topic
 - 🐋 **[Wale](https://github.com/akurilin/wale)** - Kale on the Web
-- 📷 **[Koom](https://github.com/akurilin/koom)** - A self-hosted open source alternative to Loom
+- 📷 **[Koom](https://github.com/akurilin/koom)** - A low-cost self-hosted open source alternative to Loom
 - 🔮 **[Kiro](https://github.com/akurilin/kiro)** - A Discord voice bot that answers game questions so players never have to alt-tab
 - 🍃 **[Kale](https://github.com/akurilin/kale)** - An agentic desktop word processor for technical essay writers
 - 💬 **[Multitrack](https://github.com/akurilin/multitrack)** - Cross-provider concurrent agent transcript publisher
