@@ -4,7 +4,7 @@
 
 - 🎛️ **[kommand](https://github.com/akurilin/kommand)** - A safe, modular runtime for Python + AI automations
 - 🐍 **[Pystack](https://github.com/akurilin/pystack)** - An opinionated scaffold for a modern Python and TypeScript web app
-- ??? ***[Social](https://github.com/akurilin/social)** - An agentic social events crawler, aggregator and visualizer
+- ??? **[Social](https://github.com/akurilin/social)** - An agentic social events crawler, aggregator and visualizer
 - 🔁 **[Followuper](https://github.com/akurilin/followuper)** - Finds conversations you forgot to follow up on
 - 📡 **[Spotter](https://github.com/akurilin/spotter)** - Notifies you when a WhatsApp group starts a relevant topic
 - 🐋 **[Wale](https://github.com/akurilin/wale)** - Kale on the Web
