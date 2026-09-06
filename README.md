@@ -2,7 +2,7 @@
 
 ## Recent Public Projects
 
-- ☁️ **[Cloudbox](https://github.com/akurilin/cloudbox)** - Run AI agents in AWS from the command line or by email
+- ☁️ **[Cloudbox](https://github.com/akurilin/cloudbox)** - Run sandboxed AI agents in AWS from the command line or by email
 - 🎛️ **[kommand](https://github.com/akurilin/kommand)** - A safe, modular runtime for Python + AI automations
 - 🐍 **[Pystack](https://github.com/akurilin/pystack)** - An opinionated scaffold for a modern Python and TypeScript web app
 - 🗓️ **[Social](https://github.com/akurilin/social)** - An agentic social events crawler, aggregator and visualizer
