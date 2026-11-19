@@ -2,7 +2,7 @@
 
 ## Recent Public Projects
 
-- 🖼️ **[smugless](https://github.com/akurilin/smugless)** - A nearly free-to-host, open-source photo portfolio website with a built-in admin, a low-cost alternative to hosted portfolio services
+- 🖼️ **[smugless](https://github.com/akurilin/smugless)** - A nearly free-to-host open source photo portfolio with an admin
 - 📨 **[msgmcp](https://github.com/akurilin/msgmcp)** - Access to your Mac's iMessage, WhatsApp, Telegram and Signal for cloud agents over Tailscale
 - ☁️ **[Cloudbox](https://github.com/akurilin/cloudbox)** - Run sandboxed AI agents in AWS from the command line or by email
 - 🎛️ **[kommand](https://github.com/akurilin/kommand)** - A safe, modular runtime for Python + AI automations
