@@ -2,6 +2,7 @@
 
 ## Recent Public Projects
 
+- 🎙️ **[Eloquence](https://github.com/akurilin/eloquence)** - Real-time conversation coaching that alerts you on speaking pace, fillers, and pauses
 - 🖼️ **[smugless](https://github.com/akurilin/smugless)** - A nearly free-to-host open source photo portfolio with an admin
 - 📨 **[msgmcp](https://github.com/akurilin/msgmcp)** - Access to your Mac's iMessage, WhatsApp, Telegram and Signal for cloud agents over Tailscale
 - ☁️ **[Cloudbox](https://github.com/akurilin/cloudbox)** - Run sandboxed AI agents in AWS from the command line or by email
