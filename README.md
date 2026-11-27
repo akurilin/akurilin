@@ -2,6 +2,7 @@
 
 ## Recent Public Projects
 
+- 🎧 **[Long Voice](https://github.com/akurilin/long-voice)** - Long-form spoken conversations with AI that you can interrupt, pause and resume any time
 - 🎙️ **[Eloquence](https://github.com/akurilin/eloquence)** - Real-time conversation coaching that alerts you on speaking pace, fillers, and pauses
 - 🖼️ **[smugless](https://github.com/akurilin/smugless)** - A nearly free-to-host open source photo portfolio with an admin
 - 📨 **[msgmcp](https://github.com/akurilin/msgmcp)** - Access to your Mac's iMessage, WhatsApp, Telegram and Signal for cloud agents over Tailscale
